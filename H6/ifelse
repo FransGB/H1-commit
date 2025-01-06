@@ -1,0 +1,9 @@
+Kohane="Cantik"
+Nahida="Jelek"
+
+if Kohane=="Cantik":
+    print("Kohane Sangat Cantik")
+elif Nahida=="Jelek":
+    print("Nahida Sangat Jelek")
+else :
+    print("Kohane dan Nahida tidak cantik dan jelek")
