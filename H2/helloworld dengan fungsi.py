@@ -1,5 +1,5 @@
 def harikedua():
     print("Hello")
-    print("World")
+    print("World!")
 
 harikedua()
