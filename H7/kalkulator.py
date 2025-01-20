@@ -28,6 +28,6 @@ def kalkulator():
             else:
                 print("Maaf, Pembagian tidak dapat dilakukan dengan angka 0")
     else:
-        print("Maaf, Pilihan tidak tersedia")
+        print("Maaf, Pilihan tidak tersedia!")
 
 kalkulator()
