@@ -28,7 +28,7 @@ def main():
             else :
                 print("Uang Anda tidak cukup untuk membeli barang ini")
         else:
-            print("Pilihan Anda tidak ada di Toko")
+            print("Pilihan Anda tidak ada di Toko!")
 
         lagi = input("Apakah Anda Ingin Membeli Lagi? (Ya/Tidak): ").lower()
         if lagi != 'Tidak':
